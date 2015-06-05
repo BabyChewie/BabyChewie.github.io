@@ -1,2 +1,2 @@
-# BabyChewie.github.io
-:P My main page.
+# BabyChewie Homepage
+:P My homepage.
